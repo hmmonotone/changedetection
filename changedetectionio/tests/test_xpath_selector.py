@@ -44,7 +44,7 @@ def set_modified_response():
 
     return None
 
-# Handle utf-8 charset replies https://github.com/dgtlmoon/changedetection.io/pull/613
+# Handle utf-8 charset replies https://github.com/yaper-labs/changedetection/pull/613
 def test_check_xpath_filter_utf8(client, live_server):
     filter='//item/*[self::description]'
 
@@ -100,7 +100,7 @@ def test_check_xpath_filter_utf8(client, live_server):
     assert b'Deleted' in res.data
 
 
-# Handle utf-8 charset replies https://github.com/dgtlmoon/changedetection.io/pull/613
+# Handle utf-8 charset replies https://github.com/yaper-labs/changedetection/pull/613
 def test_check_xpath_text_function_utf8(client, live_server):
     filter='//item/title/text()'
 

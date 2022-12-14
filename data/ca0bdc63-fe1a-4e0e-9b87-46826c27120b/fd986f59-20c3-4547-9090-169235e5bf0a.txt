@@ -110,7 +110,7 @@ HEAD / 2022-12-13 12:28:20 +0100:
  - Re #1052 - Watch 'open' link should use any dynamic/template info (#1063)
  - Remove accidental files
  - Backups and Snapshots - Data directory now fully portable, (all paths are relative) , refactored backup zip export creation
- - Re #1052 - Dynamic URLs, use variables in the URL (such as the current date, the date in a month, and other logic see https://github.com/dgtlmoon/changedetection.io/wiki/Handling-variables-in-the-watched-URL ) (#1057)
+ - Re #1052 - Dynamic URLs, use variables in the URL (such as the current date, the date in a month, and other logic see https://github.com/yaper-labs/changedetection/wiki/Handling-variables-in-the-watched-URL ) (#1057)
  - API - system info - allow 5 minutes grace before watch is considered 'overdue'
  - API - Adding basic system info/system state API (#1051)
  - Build - Fix syntax in container build test (#1050)
@@ -342,7 +342,7 @@ HEAD / 2022-12-13 12:28:20 +0100:
  - 0.39.14
  - Fix encoding errors with XPath filters from UTF-8 responses (#619)
  - API Interface (#617)
- - Add note that changedetection is not performed on the screenshot just yet (WIP https://github.com/dgtlmoon/changedetection.io/pull/419 )
+ - Add note that changedetection is not performed on the screenshot just yet (WIP https://github.com/yaper-labs/changedetection/pull/419 )
  - Fixing edit template HTML
  - Proxy settings on watch should have a "[ ] default" option (#610)
  - Input field tidyup (#611)
@@ -363,7 +363,7 @@ HEAD / 2022-12-13 12:28:20 +0100:
  - Improving Playwright docs (#588)
  - Playwright - code fix
  - Playwright fetcher - more reliable by just waiting arbitrary seconds after the last network IO
- - Make proxy configuration more consistent - see https://github.com/dgtlmoon/changedetection.io/wiki/Proxy-configuration (#585)
+ - Make proxy configuration more consistent - see https://github.com/yaper-labs/changedetection/wiki/Proxy-configuration (#585)
  - Playwright fetcher - use the correct default User-Agent
  - Toggle visibility of extra requests options/settings when not in use (#584)
  - Add new fetch method: Playwright Chromium (Selenium/WebDriver alternative)  (#489)
@@ -533,7 +533,7 @@ HEAD / 2022-12-13 12:28:20 +0100:
  - Adding global ignore text (#339)
  - Adding new proxyType to selenium mappings
  - Use selenium 4.1.0
- - Bumping selenium version re https://github.com/dgtlmoon/changedetection.io/pull/331#issuecomment-1003323594
+ - Bumping selenium version re https://github.com/yaper-labs/changedetection/pull/331#issuecomment-1003323594
  - Add socksVersion mapping (#331)
  - Fix broken RSS link fields
  - RSS Link links you back to the difference UI/JS page, RSS Description is the page you're watching, and RSS Title is the page you're watching
@@ -658,7 +658,7 @@ HEAD / 2022-12-13 12:28:20 +0100:
  - Update README.md
  - Test - prove that notifications are not being sent when content does not change
  - remove quotes from env vars
- - Re https://github.com/dgtlmoon/changedetection.io/discussions/189 A note to not use quotes in env parts
+ - Re https://github.com/yaper-labs/changedetection/discussions/189 A note to not use quotes in env parts
  - WebDriver fetcher - settings - when an alternative one is configured, show it in the label
  - Update README.md
 

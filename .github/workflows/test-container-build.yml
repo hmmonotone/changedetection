@@ -43,7 +43,7 @@ jobs:
             version: latest
             driver-opts: image=moby/buildkit:master
 
-        # https://github.com/dgtlmoon/changedetection.io/pull/1067
+        # https://github.com/yaper-labs/changedetection/pull/1067
         # Check we can still build under alpine/musl
         - name: Test that the docker containers can build (musl via alpine check)
           id: docker_build_musl

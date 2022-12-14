@@ -5,7 +5,7 @@
     "changedetection",
     "website monitoring"
   ],
-  "repository": "https://github.com/dgtlmoon/changedetection.io",
+  "repository": "https://github.com/yaper-labs/changedetection",
   "success_url": "/",
   "scripts": {
   },

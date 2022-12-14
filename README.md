@@ -7,7 +7,7 @@ _Live your data-life pro-actively, Detect website changes and perform meaningful
 
 [![Release Version][release-shield]][release-link] [![Docker Pulls][docker-pulls]][docker-link] [![License][license-shield]](LICENSE.md)
 
-![changedetection.io](https://github.com/dgtlmoon/changedetection.io/actions/workflows/test-only.yml/badge.svg?branch=master)
+![changedetection.io](https://github.com/yaper-labs/changedetection/actions/workflows/test-only.yml/badge.svg?branch=master)
 
 [**Don't have time? Let us host it for you! try our $6.99/month subscription - use our proxies and support!**](https://lemonade.changedetection.io/start) , _half the price of other website change monitoring services and comes with unlimited watches & checks!_
 
@@ -18,7 +18,7 @@ _Live your data-life pro-actively, Detect website changes and perform meaningful
 
 ### Target specific parts of the webpage using the Visual Selector tool.
 
-Available when connected to a <a href="https://github.com/dgtlmoon/changedetection.io/wiki/Playwright-content-fetcher">playwright content fetcher</a> (included as part of our subscription service)
+Available when connected to a <a href="https://github.com/yaper-labs/changedetection/wiki/Playwright-content-fetcher">playwright content fetcher</a> (included as part of our subscription service)
 
 [<img src="https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/visualselector-anim.gif" style="max-width:100%;" alt="Self-hosted web page change monitoring context difference "  title="Self-hosted web page change monitoring context difference " />](https://lemonade.changedetection.io/start?src=github)
 
@@ -72,12 +72,12 @@ _Need an actual Chrome runner with Javascript support? We support fetching via W
 - Execute JS before extracting text (Good for logging in, see examples in the UI!)
 - Override Request Headers, Specify `POST` or `GET` and other methods
 - Use the "Visual Selector" to help target specific elements
-- Configurable [proxy per watch](https://github.com/dgtlmoon/changedetection.io/wiki/Proxy-configuration)
+- Configurable [proxy per watch](https://github.com/yaper-labs/changedetection/wiki/Proxy-configuration)
 - Send a screenshot with the notification when a change is detected in the web page
 
 We [recommend and use Bright Data](https://brightdata.grsm.io/n0r16zf7eivq) global proxy services, Bright Data will match any first deposit up to $100 using our signup link.
 
-Please :star: star :star: this project and help it grow! https://github.com/dgtlmoon/changedetection.io/
+Please :star: star :star: this project and help it grow! https://github.com/yaper-labs/changedetection/
 
 ## Installation
 
@@ -98,7 +98,7 @@ $ docker run -d --restart always -p "127.0.0.1:5000:5000" -v datastore-volume:/d
 
 ### Windows
 
-See the install instructions at the wiki https://github.com/dgtlmoon/changedetection.io/wiki/Microsoft-Windows
+See the install instructions at the wiki https://github.com/yaper-labs/changedetection/wiki/Microsoft-Windows
 
 ### Python Pip
 
@@ -129,7 +129,7 @@ docker run -d --restart always -p "127.0.0.1:5000:5000" -v datastore-volume:/dat
 docker-compose pull && docker-compose up -d
 ```
 
-See the wiki for more information https://github.com/dgtlmoon/changedetection.io/wiki
+See the wiki for more information https://github.com/yaper-labs/changedetection/wiki
 
 
 ## Filters
@@ -177,7 +177,7 @@ For more complex parsing, filtering, and modifying of JSON data, jq is recommend
 
 One big advantage of `jq` is that you can use logic in your JSON filter, such as filters to only show items that have a value greater than/less than etc.
 
-See the wiki https://github.com/dgtlmoon/changedetection.io/wiki/JSON-Selector-Filter-help for more information and examples
+See the wiki https://github.com/yaper-labs/changedetection/wiki/JSON-Selector-Filter-help for more information and examples
 
 ### Parse JSON embedded in HTML!
 
@@ -213,11 +213,11 @@ The application also supports notifying you that it can follow this information 
 
 ## Proxy Configuration
 
-See the wiki https://github.com/dgtlmoon/changedetection.io/wiki/Proxy-configuration , we also support using [BrightData proxy services where possible]( https://github.com/dgtlmoon/changedetection.io/wiki/Proxy-configuration#brightdata-proxy-support)
+See the wiki https://github.com/yaper-labs/changedetection/wiki/Proxy-configuration , we also support using [BrightData proxy services where possible]( https://github.com/yaper-labs/changedetection/wiki/Proxy-configuration#brightdata-proxy-support)
 
 ## Raspberry Pi support?
 
-Raspberry Pi and linux/arm/v6 linux/arm/v7 arm64 devices are supported! See the wiki for [details](https://github.com/dgtlmoon/changedetection.io/wiki/Fetching-pages-with-WebDriver)
+Raspberry Pi and linux/arm/v6 linux/arm/v7 arm64 devices are supported! See the wiki for [details](https://github.com/yaper-labs/changedetection/wiki/Fetching-pages-with-WebDriver)
 
 
 ## Support us
@@ -240,7 +240,7 @@ I offer commercial support, this software is depended on by network security, ae
 
 [release-shield]: https://img.shields.io:/github/v/release/dgtlmoon/changedetection.io?style=for-the-badge
 [docker-pulls]: https://img.shields.io/docker/pulls/dgtlmoon/changedetection.io?style=for-the-badge
-[test-shield]: https://github.com/dgtlmoon/changedetection.io/actions/workflows/test-only.yml/badge.svg?branch=master
+[test-shield]: https://github.com/yaper-labs/changedetection/actions/workflows/test-only.yml/badge.svg?branch=master
 
 [license-shield]: https://img.shields.io/github/license/dgtlmoon/changedetection.io.svg?style=for-the-badge
 [release-link]: https://github.com/dgtlmoon.com/changedetection.io/releases

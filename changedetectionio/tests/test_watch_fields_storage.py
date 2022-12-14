@@ -56,7 +56,7 @@ def test_check_watch_field_storage(client, live_server):
 
 
 
-# Re https://github.com/dgtlmoon/changedetection.io/issues/110
+# Re https://github.com/yaper-labs/changedetection/issues/110
 def test_check_recheck_global_setting(client, live_server):
 
     res = client.post(
