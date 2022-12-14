@@ -12,4 +12,4 @@ Use `pytest` to validate/test, you can run the existing tests as `pytest tests/t
 pip3 install -r requirements-dev
 ```
 
-this is from https://github.com/dgtlmoon/changedetection.io/blob/master/requirements-dev.txt
+this is from https://github.com/yaper-labs/changedetection/blob/master/requirements-dev.txt

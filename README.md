@@ -2,14 +2,9 @@
 
 _Live your data-life pro-actively, Detect website changes and perform meaningful actions, trigger notifications via Discord, Email, Slack, Telegram, API calls and many more._
 
-
-[<img src="https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/screenshot.png" style="max-width:100%;" alt="Self-hosted web page change monitoring"  title="Self-hosted web page change monitoring"  />](https://lemonade.changedetection.io/start?src=github)
-
 [![Release Version][release-shield]][release-link] [![Docker Pulls][docker-pulls]][docker-link] [![License][license-shield]](LICENSE.md)
 
 ![changedetection.io](https://github.com/yaper-labs/changedetection/actions/workflows/test-only.yml/badge.svg?branch=master)
-
-[**Don't have time? Let us host it for you! try our $6.99/month subscription - use our proxies and support!**](https://lemonade.changedetection.io/start) , _half the price of other website change monitoring services and comes with unlimited watches & checks!_
 
 - Chrome browser included.
 - Super fast, no registration needed setup.
@@ -19,13 +14,6 @@ _Live your data-life pro-actively, Detect website changes and perform meaningful
 ### Target specific parts of the webpage using the Visual Selector tool.
 
 Available when connected to a <a href="https://github.com/yaper-labs/changedetection/wiki/Playwright-content-fetcher">playwright content fetcher</a> (included as part of our subscription service)
-
-[<img src="https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/visualselector-anim.gif" style="max-width:100%;" alt="Self-hosted web page change monitoring context difference "  title="Self-hosted web page change monitoring context difference " />](https://lemonade.changedetection.io/start?src=github)
-
-### Easily see what changed, examine by word, line, or individual character.
-
-[<img src="https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/screenshot-diff.png" style="max-width:100%;" alt="Self-hosted web page change monitoring context difference "  title="Self-hosted web page change monitoring context difference " />](https://lemonade.changedetection.io/start?src=github)
-
 
 ### Perform interactive browser steps
 
@@ -91,7 +79,7 @@ $ docker-compose up -d
 
 Docker standalone
 ```bash
-$ docker run -d --restart always -p "127.0.0.1:5000:5000" -v datastore-volume:/datastore --name changedetection.io dgtlmoon/changedetection.io
+$ docker run -d --restart always -p "127.0.0.1:5000:5000" -v datastore-volume:/datastore --name changedetection.io yaper-labs/changedetection.io
 ```
 
 `:latest` tag is our latest stable release, `:dev` tag is our bleeding edge `master` branch.
@@ -117,10 +105,10 @@ _Now with per-site configurable support for using a fast built in HTTP fetcher o
 
 ### Docker
 ```
-docker pull dgtlmoon/changedetection.io
+docker pull yaper-labs/changedetection.io
 docker kill $(docker ps -a -f name=changedetection.io -q)
 docker rm $(docker ps -a -f name=changedetection.io -q)
-docker run -d --restart always -p "127.0.0.1:5000:5000" -v datastore-volume:/datastore --name changedetection.io dgtlmoon/changedetection.io
+docker run -d --restart always -p "127.0.0.1:5000:5000" -v datastore-volume:/datastore --name changedetection.io yaper-labs/changedetection.io
 ```
 
 ### docker-compose
@@ -157,19 +145,13 @@ Just some examples
  
 <a href="https://github.com/caronc/apprise#popular-notification-services">And everything else in this list!</a>
 
-<img src="https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/screenshot-notifications.png" style="max-width:100%;" alt="Self-hosted web page change monitoring notifications"  title="Self-hosted web page change monitoring notifications"  />
-
 Now you can also customise your notification content and use <a target="_new" href="https://jinja.palletsprojects.com/en/3.0.x/templates/">Jinja2 templating</a> for their title and body!
 
 ## JSON API Monitoring
 
 Detect changes and monitor data in JSON API's by using either JSONPath or jq to filter, parse, and restructure JSON as needed.
 
-![image](https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/json-filter-field-example.png)
-
 This will re-parse the JSON and apply formatting to the text, making it super easy to monitor and detect changes in JSON API results
-
-![image](https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/json-diff-example.png)
 
 ### JSONPath or jq?
 
@@ -219,29 +201,4 @@ See the wiki https://github.com/yaper-labs/changedetection/wiki/Proxy-configurat
 
 Raspberry Pi and linux/arm/v6 linux/arm/v7 arm64 devices are supported! See the wiki for [details](https://github.com/yaper-labs/changedetection/wiki/Fetching-pages-with-WebDriver)
 
-
-## Support us
-
-Do you use changedetection.io to make money? does it save you time or money? Does it make your life easier? less stressful? Remember, we write this software when we should be doing actual paid work, we have to buy food and pay rent just like you.
-
-
-Firstly, consider taking out a [change detection monthly subscription - unlimited checks and watches](https://lemonade.changedetection.io/start) , even if you don't use it, you still get the warm fuzzy feeling of helping out the project. (And who knows, you might just use it!)
-
-Or directly donate an amount PayPal [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=7CP6HR9ZCNDYJ)
-
-Or BTC `1PLFN327GyUarpJd7nVe7Reqg9qHx5frNn`
-
-<img src="https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/btc-support.png" style="max-width:50%;" alt="Support us!"  />
-
-## Commercial Support
-
-I offer commercial support, this software is depended on by network security, aerospace , data-science and data-journalist professionals just to name a few, please reach out at dgtlmoon@gmail.com for any enquiries, I am more than glad to work with your organisation to further the possibilities of what can be done with changedetection.io
-
-
-[release-shield]: https://img.shields.io:/github/v/release/dgtlmoon/changedetection.io?style=for-the-badge
-[docker-pulls]: https://img.shields.io/docker/pulls/dgtlmoon/changedetection.io?style=for-the-badge
 [test-shield]: https://github.com/yaper-labs/changedetection/actions/workflows/test-only.yml/badge.svg?branch=master
-
-[license-shield]: https://img.shields.io/github/license/dgtlmoon/changedetection.io.svg?style=for-the-badge
-[release-link]: https://github.com/dgtlmoon.com/changedetection.io/releases
-[docker-link]: https://hub.docker.com/r/dgtlmoon/changedetection.io
