@@ -1,0 +1,102 @@
+  Hacker News new | past | comments | ask | show | jobs | submit  login                                                                                             
+                                                                                                                                                                    
+
+ 1.                                                                US Department of Energy: Fusion Ignition Achieved ( energy.gov )                                 
+     1754 points by novateg 9 hours ago | hide | 724 comments                                                                                                       
+                                                                                                                                                                    
+ 2.                                                                Reddit's photo albums broke due to Integer overflow of Signed Int32 ( reddit.com )               
+     168 points by Rebles 3 hours ago | hide | 82 comments                                                                                                          
+                                                                                                                                                                    
+ 3.                                                                After 20 years the Dwarf Fortress devs have to get used to being millionaires ( pcgamer.com )    
+     327 points by robin_reala 4 hours ago | hide | 179 comments                                                                                                    
+                                                                                                                                                                    
+ 4.                                                                About the security content of iOS 16.2 and iPadOS 16.2 ( support.apple.com )                     
+     121 points by tosh 4 hours ago | hide | 47 comments                                                                                                            
+                                                                                                                                                                    
+ 5.                                                                The United States of America vs. Samuel Bankman-Fried Indictment [pdf] ( justice.gov )           
+     436 points by dereg 10 hours ago | hide | 408 comments                                                                                                         
+                                                                                                                                                                    
+ 6.                                                                Balloon framing is worse-is-better (2021) ( constructionphysics.substack.com )                   
+     141 points by chiffre01 5 hours ago | hide | 120 comments                                                                                                      
+                                                                                                                                                                    
+ 7.                                                                How to rebuild social media on top of RSS ( tfos.co )                                            
+     118 points by jacobobryant 5 hours ago | hide | 48 comments                                                                                                    
+                                                                                                                                                                    
+ 8.                                                                LosslessCut: lossless video/audio editing ( mifi.no )                                            
+     464 points by spking 11 hours ago | hide | 103 comments                                                                                                        
+                                                                                                                                                                    
+ 9.                                                                A software change allowed FTX to use client money ( reuters.com )                                
+     76 points by jc_811 4 hours ago | hide | 53 comments                                                                                                           
+                                                                                                                                                                    
+10.                                                                I built a wildlife pond [video] ( youtube.com )                                                  
+     52 points by politelemon 3 hours ago | hide | 10 comments                                                                                                      
+                                                                                                                                                                    
+11.                                                                SQLite-loadable-rs: A framework for building SQLite Extensions in Rust ( observablehq.com )      
+     131 points by petercooper 6 hours ago | hide | 19 comments                                                                                                     
+                                                                                                                                                                    
+12.                                                                A native internet protocol for social media ( getrevue.co/profile/jackjack )                     
+     31 points by ttepasse 2 hours ago | hide | 11 comments                                                                                                         
+                                                                                                                                                                    
+13.                                                                The best things and stuff of 2022 ( fogus.me )                                                   
+     149 points by rgrieselhuber 8 hours ago | hide | 19 comments                                                                                                   
+                                                                                                                                                                    
+14.                                                                OKRs Are Hard ( skamille.medium.com )                                                            
+     12 points by frostmatthew 51 minutes ago | hide | discuss                                                                                                      
+                                                                                                                                                                    
+15.                                                                Tips for analyzing logs ( jvns.ca )                                                              
+     219 points by historynops 9 hours ago | hide | 96 comments                                                                                                     
+                                                                                                                                                                    
+16.                                                                MindsDB (YC W20) Is Hiring a Senior PM ( lever.co )                                              
+     4 hours ago | hide                                                                                                                                             
+                                                                                                                                                                    
+17.                                                                The Flickr Foundation ( flickr.org )                                                             
+     71 points by Nrbelex 4 hours ago | hide | 23 comments                                                                                                          
+                                                                                                                                                                    
+18.                                                                Userspace isn't slow, some kernel interfaces are ( tailscale.com )                               
+     181 points by jeffhenson 8 hours ago | hide | 32 comments                                                                                                      
+                                                                                                                                                                    
+19.                                                                Mars Now ( nasa.gov )                                                                            
+     171 points by 1970-01-01 8 hours ago | hide | 127 comments                                                                                                     
+                                                                                                                                                                    
+20.                                                                Fail-Slow at Scale: Evidence of Performance Faults in Large Production Systems ( acm.org )       
+     6 points by zdw 1 hour ago | hide | discuss                                                                                                                    
+                                                                                                                                                                    
+21.                                                                We iterate so that you can recurse ( wingolog.org )                                              
+     49 points by Tomte 5 hours ago | hide | 2 comments                                                                                                             
+                                                                                                                                                                    
+22.                                                                Jaxga: Geometric Algebra Library for Jax ( github.com/robinka )                                  
+     12 points by pizza 2 hours ago | hide | 1 comment                                                                                                              
+                                                                                                                                                                    
+23.                                                                Shutting down our unencrypted public DNS service ( mullvad.net )                                 
+     237 points by mikece 11 hours ago | hide | 76 comments                                                                                                         
+                                                                                                                                                                    
+24.                                                                What we can learn from vintage computing ( github.com/readme )                                   
+     48 points by ecliptik 5 hours ago | hide | 20 comments                                                                                                         
+                                                                                                                                                                    
+25.                                                                Yerba Mate – A Long but Current History (2021) ( nih.gov )                                       
+     125 points by Kaibeezy 10 hours ago | hide | 136 comments                                                                                                      
+                                                                                                                                                                    
+26.                                                                Show HN: We scaled Git to support 1 TB repos ( xethub.com )                                      
+     218 points by reverius42 10 hours ago | hide | 132 comments                                                                                                    
+                                                                                                                                                                    
+27.                                                                No, Google did not hike the price of a .dev domain from $12 to $850 ( agwa.name )                
+     233 points by arkadiyt 4 hours ago | hide | 82 comments                                                                                                        
+                                                                                                                                                                    
+28.                                                                How much decentralisation is too much? ( shkspr.mobi )                                           
+     75 points by robin_reala 8 hours ago | hide | 95 comments                                                                                                      
+                                                                                                                                                                    
+29.                                                                Pony Programming Language ( github.com/ponylang )                                                
+     153 points by curling_grad 9 hours ago | hide | 62 comments                                                                                                    
+                                                                                                                                                                    
+30.                                                                Data2vec 2.0: Highly efficient self-supervised learning for vision, speech, text ( facebook.com )
+     95 points by ashvardanian 7 hours ago | hide | 9 comments                                                                                                      
+                                                                                                                                                                    
+                                                                                                                                                                    
+     More                                                                                                                                                           
+                                                                                                                                                                    
+                                                                                                                                                                    
+                                                                                                                                                                    
+                                                                                                                                                                    
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                           
+                                                                                                                                                                    
+Search:                                                                                                                                                             

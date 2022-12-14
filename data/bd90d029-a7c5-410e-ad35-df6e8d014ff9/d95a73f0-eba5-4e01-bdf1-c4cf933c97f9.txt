@@ -1,0 +1,102 @@
+  Hacker News new | past | comments | ask | show | jobs | submit  login                                                                                             
+                                                                                                                                                                    
+
+ 1.                                                                 How are you doing? ( pudding.cool )                                                             
+     96 points by feross 1 hour ago | hide | 33 comments                                                                                                            
+                                                                                                                                                                    
+ 2.                                                                 Farewell, Building in Public ( coryzue.com )                                                    
+     160 points by herbertl 4 hours ago | hide | 56 comments                                                                                                        
+                                                                                                                                                                    
+ 3.                                                                 Yerba Mate – A Long but Current History ( nih.gov )                                             
+     11 points by Kaibeezy 48 minutes ago | hide | 10 comments                                                                                                      
+                                                                                                                                                                    
+ 4.                                                                 A Neat XOR Trick ( mattkeeter.com )                                                             
+     41 points by jmillikin 3 hours ago | hide | 13 comments                                                                                                        
+                                                                                                                                                                    
+ 5.                                                                 The Death of Rackspace’s ‘Fanatical Support’ ( sanantonioreport.org )                           
+     29 points by alt227 2 hours ago | hide | 23 comments                                                                                                           
+                                                                                                                                                                    
+ 6.                                                                 Rutter (YC S19) Is Hiring a Senior Software Engineer in NYC ( ashbyhq.com )                     
+     7 minutes ago | hide                                                                                                                                           
+                                                                                                                                                                    
+ 7.                                                                 UC Berkeley launches SkyPilot to help navigate soaring cloud costs ( datanami.com )             
+     218 points by kungfudoi 8 hours ago | hide | 68 comments                                                                                                       
+                                                                                                                                                                    
+ 8.                                                                 Chernobyl Disaster – The Legasov Tapes ( legasovtapetranslation.blogspot.com )                  
+     85 points by atomicnature 5 hours ago | hide | 9 comments                                                                                                      
+                                                                                                                                                                    
+ 9.                                                                 Human_fallback ( nplusonemag.com )                                                              
+     43 points by e12e 4 hours ago | hide | 7 comments                                                                                                              
+                                                                                                                                                                    
+10.                                                                 Fusion energy breakthrough by Livermore Lab ( ft.com )                                          
+     861 points by zackoverflow 1 day ago | hide | 661 comments                                                                                                     
+                                                                                                                                                                    
+11.                                                                 OCaml Canvas ( ocamlpro.github.io )                                                             
+     109 points by nickmain 7 hours ago | hide | 11 comments                                                                                                        
+                                                                                                                                                                    
+12.                                                                 Pi number calculator in 146 bytes of 8088 machine code ( github.com/nanochess )                 
+     16 points by nanochess 2 hours ago | hide | 2 comments                                                                                                         
+                                                                                                                                                                    
+13.                                                                 My IDE is too heavy so I moved to Emacs ( athaydes.com )                                        
+     96 points by lycopodiopsida 4 hours ago | hide | 92 comments                                                                                                   
+                                                                                                                                                                    
+14.                                                                 Read This Post ‘Unless’ You’re Not a Ruby Developer ( jesseduffield.com )                       
+     72 points by genericlemon24 4 hours ago | hide | 83 comments                                                                                                   
+                                                                                                                                                                    
+15.                                                                 Btrfs in Linux 6.2 brings performance improvements, better RAID 5/6 reliability ( phoronix.com )
+     224 points by pantalaimon 14 hours ago | hide | 185 comments                                                                                                   
+                                                                                                                                                                    
+16.                                                                 Solving Advent of Code with jq ( github.com/odnoletkov )                                        
+     167 points by nequo 10 hours ago | hide | 12 comments                                                                                                          
+                                                                                                                                                                    
+17.                                                                 Building Games with DragonRuby – A free book on Ruby game dev ( dragonriders.community )        
+     143 points by brettcodes 12 hours ago | hide | 21 comments                                                                                                     
+                                                                                                                                                                    
+18.                                                                 New Zealand bans young people from buying cigarettes for life ( abc.net.au )                    
+     15 points by adrian_mrd 36 minutes ago | hide | 23 comments                                                                                                    
+                                                                                                                                                                    
+19.                                                                 Data behind high-functioning engineering organizations [pdf] ( datocms-assets.com )             
+     116 points by rnjailamba 11 hours ago | hide | 37 comments                                                                                                     
+                                                                                                                                                                    
+20.                                                                 PeerTube v5: the result of 5 years’ handcrafting ( framablog.org )                              
+     10 points by ealhad 2 hours ago | hide | 1 comment                                                                                                             
+                                                                                                                                                                    
+21.                                                                 The scourge of job title inflation ( economist.com )                                            
+     109 points by i13e 13 hours ago | hide | 204 comments                                                                                                          
+                                                                                                                                                                    
+22.                                                                 Orphaned neurological implants ( pluralistic.net )                                              
+     58 points by cunidev 3 hours ago | hide | 23 comments                                                                                                          
+                                                                                                                                                                    
+23.                                                                 Picol, a Tcl interpreter in 550 lines of C code ( antirez.com )                                 
+     65 points by wooosh 9 hours ago | hide | 11 comments                                                                                                           
+                                                                                                                                                                    
+24.                                                                 A shader for sharp pixels (2017) ( gamingprojects.wordpress.com )                               
+     20 points by tosh 5 hours ago | hide | 5 comments                                                                                                              
+                                                                                                                                                                    
+25.                                                                 Programs are dead, and JavaScript has killed them ( pouria.dev )                                
+     72 points by poeti8 4 hours ago | hide | 80 comments                                                                                                           
+                                                                                                                                                                    
+26.                                                                 EFF about EU: EIDAS 2.0 Sets a Dangerous Precedent for Web Security ( eff.org )                 
+     37 points by AceSlash 3 hours ago | hide | 9 comments                                                                                                          
+                                                                                                                                                                    
+27.                                                                 AMD Radeon RX 7900 XTX and RX 7900 XT Linux Support and Performance Review ( phoronix.com )     
+     52 points by rcarmo 4 hours ago | hide | 30 comments                                                                                                           
+                                                                                                                                                                    
+28.                                                                 Unovis: Data visualization for React, Angular, Svelte, TypeScript, JavaScript ( unovis.dev )    
+     151 points by caxtine 15 hours ago | hide | 43 comments                                                                                                        
+                                                                                                                                                                    
+29.                                                                 Team New Zealand set new wind-powered land speed record on South Australian Lake ( abc.net.au ) 
+     52 points by rntn 6 hours ago | hide | 15 comments                                                                                                             
+                                                                                                                                                                    
+30.                                                                 Opinionated products breed passionate customers ( wking.dev )                                   
+     82 points by craigkerstiens 11 hours ago | hide | 34 comments                                                                                                  
+                                                                                                                                                                    
+                                                                                                                                                                    
+     More                                                                                                                                                           
+                                                                                                                                                                    
+                                                                                                                                                                    
+                                                                                                                                                                    
+                                                                                                                                                                    
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                           
+                                                                                                                                                                    
+Search:                                                                                                                                                             

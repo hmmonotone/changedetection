@@ -1,0 +1,102 @@
+  Hacker News new | past | comments | ask | show | jobs | submit  login                                                                                            
+                                                                                                                                                                   
+
+ 1.                                                               US Department of Energy: Fusion Ignition Achieved ( energy.gov )                                 
+     1237 points by novateg 5 hours ago | hide | 541 comments                                                                                                      
+                                                                                                                                                                   
+ 2.                                                               No, Google Did Not Hike the Price of a .dev Domain from $12 to $850 ( agwa.name )                
+     35 points by arkadiyt 23 minutes ago | hide | 4 comments                                                                                                      
+                                                                                                                                                                   
+ 3.                                                               When worse-is-better – housing construction ( constructionphysics.substack.com )                 
+     75 points by chiffre01 1 hour ago | hide | 37 comments                                                                                                        
+                                                                                                                                                                   
+ 4.                                                               SQLite-loadable-rs: A framework for building SQLite Extensions in Rust ( observablehq.com )      
+     86 points by petercooper 2 hours ago | hide | 10 comments                                                                                                     
+                                                                                                                                                                   
+ 5.                                                               LosslessCut: lossless video/audio editing ( mifi.no )                                            
+     379 points by spking 7 hours ago | hide | 92 comments                                                                                                         
+                                                                                                                                                                   
+ 6.                                                               Security Content of iOS 16.2 ( support.apple.com )                                               
+     23 points by tosh 54 minutes ago | hide | 5 comments                                                                                                          
+                                                                                                                                                                   
+ 7.                                                               MindsDB (YC W20) Is Hiring a Senior PM ( lever.co )                                              
+     49 minutes ago | hide                                                                                                                                         
+                                                                                                                                                                   
+ 8.                                                               Apple to allow outside app stores in overhaul spurred by EU laws ( bloomberg.com )               
+     295 points by MBCook 2 hours ago | hide | 248 comments                                                                                                        
+                                                                                                                                                                   
+ 9.                                                               Mars Now ( nasa.gov )                                                                            
+     120 points by 1970-01-01 4 hours ago | hide | 90 comments                                                                                                     
+                                                                                                                                                                   
+10.                                                               Userspace isn't slow, some kernel interfaces are ( tailscale.com )                               
+     136 points by jeffhenson 4 hours ago | hide | 22 comments                                                                                                     
+                                                                                                                                                                   
+11.                                                               Tips for analyzing logs ( jvns.ca )                                                              
+     164 points by historynops 5 hours ago | hide | 62 comments                                                                                                    
+                                                                                                                                                                   
+12.                                                               SEC Charges Samuel Bankman-Fried with Defrauding Investors in FTX ( sec.gov )                    
+     394 points by scrlk 10 hours ago | hide | 196 comments                                                                                                        
+                                                                                                                                                                   
+13.                                                               Our Year in Review: How Firefox Works for You ( blog.mozilla.org )                               
+     110 points by mikece 5 hours ago | hide | 61 comments                                                                                                         
+                                                                                                                                                                   
+14.                                                               Shutting down our unencrypted public DNS service ( mullvad.net )                                 
+     216 points by mikece 7 hours ago | hide | 72 comments                                                                                                         
+                                                                                                                                                                   
+15.                                                               We iterate so that you can recurse ( wingolog.org )                                              
+     15 points by Tomte 1 hour ago | hide | discuss                                                                                                                
+                                                                                                                                                                   
+16.                                                               Show HN: We scaled Git to support 1 TB repos ( xethub.com )                                      
+     177 points by reverius42 6 hours ago | hide | 115 comments                                                                                                    
+                                                                                                                                                                   
+17.                                                               How to rebuild social media on top of RSS ( tfos.co )                                            
+     19 points by jacobobryant 1 hour ago | hide | 3 comments                                                                                                      
+                                                                                                                                                                   
+18.                                                               The United States of America vs. Samuel Bankman-Fried Indictment [pdf] ( docdroid.net )          
+     279 points by dereg 6 hours ago | hide | 275 comments                                                                                                         
+                                                                                                                                                                   
+19.                                                               Al Seckel on Richard Feynman (2005) ( fotuva.org )                                               
+     12 points by areoform 1 hour ago | hide | 4 comments                                                                                                          
+                                                                                                                                                                   
+20.                                                               SEC Awards More Than $20M to Whistleblower at Unnamed Company ( sec.gov )                        
+     29 points by jasonhansel 2 hours ago | hide | 11 comments                                                                                                     
+                                                                                                                                                                   
+21.                                                               The Flickr Foundation ( flickr.org )                                                             
+     8 points by Nrbelex 48 minutes ago | hide | 2 comments                                                                                                        
+                                                                                                                                                                   
+22.                                                               Data2vec 2.0: Highly efficient self-supervised learning for vision, speech, text ( facebook.com )
+     53 points by ashvardanian 3 hours ago | hide | 2 comments                                                                                                     
+                                                                                                                                                                   
+23.                                                               Pony Programming Language ( github.com/ponylang )                                                
+     123 points by curling_grad 5 hours ago | hide | 43 comments                                                                                                   
+                                                                                                                                                                   
+24.                                                               Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws ( archive.vn )                  
+     29 points by ghuntley 1 hour ago | hide | 1 comment                                                                                                           
+                                                                                                                                                                   
+25.                                                               South Korea: the corruption that built its economy (2017) ( iias.asia )                          
+     44 points by krn 4 hours ago | hide | 27 comments                                                                                                             
+                                                                                                                                                                   
+26.                                                               Show HN: NixOS Web Hosting for Everyone ( shipnix.io )                                           
+     35 points by ghuntley 2 hours ago | hide | 21 comments                                                                                                        
+                                                                                                                                                                   
+27.                                                               Hydra – the fastest Postgres for analytics [benchmarks] ( hydras.io )                            
+     54 points by coatue 2 hours ago | hide | 6 comments                                                                                                           
+                                                                                                                                                                   
+28.                                                               The Calypso: Jacques Cousteau's Crazy Exploration Vessel [video] ( youtube.com )                 
+     25 points by latchkey 3 hours ago | hide | 6 comments                                                                                                         
+                                                                                                                                                                   
+29.                                                               Effect of Low-Carb, High-Fat Diet versus High-Carb, Low-Fat Diet ( acpjournals.org )             
+     36 points by mikequinlan 2 hours ago | hide | 51 comments                                                                                                     
+                                                                                                                                                                   
+30.                                                               A neat XOR trick ( mattkeeter.com )                                                              
+     293 points by jmillikin 13 hours ago | hide | 140 comments                                                                                                    
+                                                                                                                                                                   
+                                                                                                                                                                   
+     More                                                                                                                                                          
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                          
+                                                                                                                                                                   
+Search:                                                                                                                                                            

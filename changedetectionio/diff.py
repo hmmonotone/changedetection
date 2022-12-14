@@ -47,6 +47,8 @@ def render_diff(previous_file, newest_file, include_equal=False, line_feed_sep="
                                           newest_version_file_contents,
                                           include_equal)
 
+    print("this is value")
+
     # Recursively join lists
     f = lambda L: line_feed_sep.join([f(x) if type(x) is list else x for x in L])
     return f(rendered_diff)

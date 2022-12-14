@@ -1,0 +1,102 @@
+  Hacker News new | past | comments | ask | show | jobs | submit  login                                                                                                
+                                                                                                                                                                       
+
+ 1.                                                                   US Department of Energy: Fusion Ignition Achieved ( energy.gov )                                 
+     566 points by novateg 2 hours ago | hide | 306 comments                                                                                                           
+                                                                                                                                                                       
+ 2.                                                                   LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing ( mifi.no )                    
+     228 points by spking 4 hours ago | hide | 52 comments                                                                                                             
+                                                                                                                                                                       
+ 3.                                                                   Nuclear-fusion lab achieves ‘ignition’: what does it mean? ( nature.com )                        
+     56 points by SiempreViernes 1 hour ago | hide | 11 comments                                                                                                       
+                                                                                                                                                                       
+ 4.                                                                   Julia Evans: Tips for Analyzing Logs ( jvns.ca )                                                 
+     67 points by historynops 2 hours ago | hide | 13 comments                                                                                                         
+                                                                                                                                                                       
+ 5.                                                                   Shutting down our unencrypted public DNS service ( mullvad.net )                                 
+     183 points by mikece 4 hours ago | hide | 55 comments                                                                                                             
+                                                                                                                                                                       
+ 6.                                                                   Mars Now ( nasa.gov )                                                                            
+     27 points by 1970-01-01 1 hour ago | hide | 1 comment                                                                                                             
+                                                                                                                                                                       
+ 7.                                                                   Userspace isn't slow, some kernel interfaces are ( tailscale.com )                               
+     37 points by jeffhenson 1 hour ago | hide | 9 comments                                                                                                            
+                                                                                                                                                                       
+ 8.                                                                   Show HN: We scaled Git to support 1 TB repos ( xethub.com )                                      
+     120 points by reverius42 3 hours ago | hide | 77 comments                                                                                                         
+                                                                                                                                                                       
+ 9.                                                                   Oven (YC S19) is hiring C/C++ or Zig engineers to build Bun ( bun.sh )                           
+     1 hour ago | hide                                                                                                                                                 
+                                                                                                                                                                       
+10.                                                                   Ask HN: Why are YC companies hiring in NYC not posting their salary range?                       
+     422 points by roflyear 3 hours ago | hide | 207 comments                                                                                                          
+                                                                                                                                                                       
+11.                                                                   Pony Programming Language ( github.com/ponylang )                                                
+     83 points by curling_grad 2 hours ago | hide | 22 comments                                                                                                        
+                                                                                                                                                                       
+12.                                                                   Binance freezes withdrawals of stablecoin USDC as investors pull $2B ( businessinsider.com )     
+     304 points by manholio 3 hours ago | hide | 173 comments                                                                                                          
+                                                                                                                                                                       
+13.                                                                   South Korea: the corruption that built its economy (2017) ( iias.asia )                          
+     12 points by krn 1 hour ago | hide | 6 comments                                                                                                                   
+                                                                                                                                                                       
+14.                                                                   Our Year in Review: How Firefox Works for You ( blog.mozilla.org )                               
+     33 points by mikece 2 hours ago | hide | 24 comments                                                                                                              
+                                                                                                                                                                       
+15.                                                                   Longer proteins for longer lifespan? – Josh Mitteldorf ( scienceblog.com )                       
+     21 points by bilsbie 2 hours ago | hide | 2 comments                                                                                                              
+                                                                                                                                                                       
+16.                                                                   Ask HN: Who Remembers “Abort. Retry. Fail?”                                                      
+     91 points by graderjs 2 hours ago | hide | 73 comments                                                                                                            
+                                                                                                                                                                       
+17.                                                                   A neat XOR trick ( mattkeeter.com )                                                              
+     243 points by jmillikin 9 hours ago | hide | 116 comments                                                                                                         
+                                                                                                                                                                       
+18.                                                                   Is Europe Just Not Good at Innovating? ( berthub.eu )                                            
+     89 points by ahubert 1 hour ago | hide | 123 comments                                                                                                             
+                                                                                                                                                                       
+19.                                                                   MIT Fast Code Seminar ( csail.mit.edu )                                                          
+     8 points by signa11 1 hour ago | hide | discuss                                                                                                                   
+                                                                                                                                                                       
+20.                                                                   Supabase Storage v2: Image Resizing and Smart CDN ( supabase.com )                               
+     61 points by samwillis 4 hours ago | hide | 20 comments                                                                                                           
+                                                                                                                                                                       
+21.                                                                   New Zealand passes legislation banning cigarettes for future generations ( bbc.com )             
+     92 points by petodo 2 hours ago | hide | 72 comments                                                                                                              
+                                                                                                                                                                       
+22.                                                                   Read this post ‘unless’ you’re not a Ruby developer ( jesseduffield.com )                        
+     188 points by genericlemon24 11 hours ago | hide | 242 comments                                                                                                   
+                                                                                                                                                                       
+23.                                                                   Show HN: An Excel Wordle Solver ( github.com/cgranier )                                          
+     5 points by cgranier 1 hour ago | hide | discuss                                                                                                                  
+                                                                                                                                                                       
+24.                                                                   The United States of America vs. Samuel Bankman-Fried Indictment Unsealed [pdf] ( docdroid.net ) 
+     231 points by dereg 3 hours ago | hide | 211 comments                                                                                                             
+                                                                                                                                                                       
+25.                                                                   The Linguistics of Swearing Explain Why We Substitute Darn for Damn ( scientificamerican.com )   
+     18 points by pseudolus 3 hours ago | hide | 6 comments                                                                                                            
+                                                                                                                                                                       
+26.                                                                   Human_fallback ( nplusonemag.com )                                                               
+     124 points by e12e 10 hours ago | hide | 15 comments                                                                                                              
+                                                                                                                                                                       
+27.                                                                   The best things and stuff of 2022 ( fogus.me )                                                   
+     83 points by rgrieselhuber 4 hours ago | hide | 11 comments                                                                                                       
+                                                                                                                                                                       
+28.                                                                   Data2vec 2.0: Highly efficient self-supervised learning for vision, speech, text ( facebook.com )
+     3 points by ashvardanian 44 minutes ago | hide | discuss                                                                                                          
+                                                                                                                                                                       
+29.                                                                   The Legasov Tapes (2019) ( legasovtapetranslation.blogspot.com )                                 
+     133 points by atomicnature 12 hours ago | hide | 34 comments                                                                                                      
+                                                                                                                                                                       
+30.                                                                   SEC Charges Samuel Bankman-Fried with Defrauding Investors in FTX ( sec.gov )                    
+     349 points by scrlk 7 hours ago | hide | 176 comments                                                                                                             
+                                                                                                                                                                       
+                                                                                                                                                                       
+     More                                                                                                                                                              
+                                                                                                                                                                       
+                                                                                                                                                                       
+                                                                                                                                                                       
+                                                                                                                                                                       
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                              
+                                                                                                                                                                       
+Search:                                                                                                                                                                

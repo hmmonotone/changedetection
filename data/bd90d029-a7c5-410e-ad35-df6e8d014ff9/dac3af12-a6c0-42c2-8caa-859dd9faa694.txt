@@ -1,0 +1,102 @@
+  Hacker News new | past | comments | ask | show | jobs | submit  login                                                                                              
+                                                                                                                                                                     
+
+ 1.                                                                  Shutting down our unencrypted public DNS service ( mullvad.net )                                
+     79 points by mikece 1 hour ago | hide | 10 comments                                                                                                             
+                                                                                                                                                                     
+ 2.                                                                  LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing ( mifi.no )                   
+     65 points by spking 1 hour ago | hide | 11 comments                                                                                                             
+                                                                                                                                                                     
+ 3.                                                                  Secretary Granholm to announce major scientific breakthrough by DOE [video] ( energy.gov )      
+     106 points by KoftaBob 2 hours ago | hide | 68 comments                                                                                                         
+                                                                                                                                                                     
+ 4.                                                                  Show HN: We scaled Git to support 1 TB repos ( xethub.com )                                     
+     26 points by reverius42 32 minutes ago | hide | 7 comments                                                                                                      
+                                                                                                                                                                     
+ 5.                                                                  The United States of America vs. Samuel Bankman-Fried Indictment Unsealed [pdf] ( docdroid.net )
+     74 points by dereg 33 minutes ago | hide | 31 comments                                                                                                          
+                                                                                                                                                                     
+ 6.                                                                  Ask HN: Why are YC companies breaking hiring laws?                                              
+     28 points by roflyear 12 minutes ago | hide | 7 comments                                                                                                        
+                                                                                                                                                                     
+ 7.                                                                  A neat XOR trick ( mattkeeter.com )                                                             
+     165 points by jmillikin 6 hours ago | hide | 76 comments                                                                                                        
+                                                                                                                                                                     
+ 8.                                                                  How much decentralisation is too much? ( shkspr.mobi )                                          
+     28 points by robin_reala 2 hours ago | hide | 22 comments                                                                                                       
+                                                                                                                                                                     
+ 9.                                                                  Read this post ‘unless’ you’re not a Ruby developer ( jesseduffield.com )                       
+     150 points by genericlemon24 8 hours ago | hide | 184 comments                                                                                                  
+                                                                                                                                                                     
+10.                                                                  The best things and stuff of 2022 ( fogus.me )                                                  
+     29 points by rgrieselhuber 1 hour ago | hide | 2 comments                                                                                                       
+                                                                                                                                                                     
+11.                                                                  Human_fallback ( nplusonemag.com )                                                              
+     97 points by e12e 7 hours ago | hide | 13 comments                                                                                                              
+                                                                                                                                                                     
+12.                                                                  UC Berkeley launches SkyPilot to help navigate soaring cloud costs ( datanami.com )             
+     262 points by kungfudoi 12 hours ago | hide | 85 comments                                                                                                       
+                                                                                                                                                                     
+13.                                                                  SEC Charges Samuel Bankman-Fried with Defrauding Investors in FTX ( sec.gov )                   
+     268 points by scrlk 4 hours ago | hide | 114 comments                                                                                                           
+                                                                                                                                                                     
+14.                                                                  Rutter (YC S19) Is Hiring a Senior Software Engineer in NYC ( ashbyhq.com )                     
+     3 hours ago | hide                                                                                                                                              
+                                                                                                                                                                     
+15.                                                                  Fusion energy breakthrough by Livermore Lab ( ft.com )                                          
+     948 points by zackoverflow 1 day ago | hide | 709 comments                                                                                                      
+                                                                                                                                                                     
+16.                                                                  The Legasov Tapes (2019) ( legasovtapetranslation.blogspot.com )                                
+     121 points by atomicnature 9 hours ago | hide | 22 comments                                                                                                     
+                                                                                                                                                                     
+17.                                                                  Supabase Storage v2: Image Resizing and Smart CDN ( supabase.com )                              
+     12 points by samwillis 1 hour ago | hide | 3 comments                                                                                                           
+                                                                                                                                                                     
+18.                                                                  Pi number calculator in 146 bytes of 8088 machine code ( github.com/nanochess )                 
+     51 points by nanochess 5 hours ago | hide | 5 comments                                                                                                          
+                                                                                                                                                                     
+19.                                                                  Yerba Mate – A Long but Current History (2021) ( nih.gov )                                      
+     77 points by Kaibeezy 4 hours ago | hide | 80 comments                                                                                                          
+                                                                                                                                                                     
+20.                                                                  OCaml Canvas ( ocamlpro.github.io )                                                             
+     129 points by nickmain 11 hours ago | hide | 18 comments                                                                                                        
+                                                                                                                                                                     
+21.                                                                  My IDE is too heavy so I moved to Emacs ( athaydes.com )                                        
+     185 points by lycopodiopsida 7 hours ago | hide | 195 comments                                                                                                  
+                                                                                                                                                                     
+22.                                                                  Farewell, Building in Public ( coryzue.com )                                                    
+     267 points by herbertl 8 hours ago | hide | 86 comments                                                                                                         
+                                                                                                                                                                     
+23.                                                                  Conserving Dürer’s Triumphal Arch: coming apart at the seams (2016) ( britishmuseum.org )       
+     4 points by benbreen 1 hour ago | hide | discuss                                                                                                                
+                                                                                                                                                                     
+24.                                                                  PeerTube v5: the result of 5 years’ handcrafting ( framablog.org )                              
+     130 points by ealhad 6 hours ago | hide | 50 comments                                                                                                           
+                                                                                                                                                                     
+25.                                                                  Solving Advent of Code with jq ( github.com/odnoletkov )                                        
+     192 points by nequo 14 hours ago | hide | 17 comments                                                                                                           
+                                                                                                                                                                     
+26.                                                                  Upcoming Bugzilla releases and more fun stuff ( bugzilla.org )                                  
+     48 points by buovjaga 4 hours ago | hide | 8 comments                                                                                                           
+                                                                                                                                                                     
+27.                                                                  The death of Rackspace’s ‘fanatical support’ ( sanantonioreport.org )                           
+     121 points by alt227 6 hours ago | hide | 102 comments                                                                                                          
+                                                                                                                                                                     
+28.                                                                  How are you doing? ( pudding.cool )                                                             
+     309 points by feross 5 hours ago | hide | 154 comments                                                                                                          
+                                                                                                                                                                     
+29.                                                                  Picol, a Tcl interpreter in 550 lines of C code ( antirez.com )                                 
+     94 points by wooosh 13 hours ago | hide | 11 comments                                                                                                           
+                                                                                                                                                                     
+30.                                                                  A shader for sharp pixels (2017) ( gamingprojects.wordpress.com )                               
+     35 points by tosh 9 hours ago | hide | 11 comments                                                                                                              
+                                                                                                                                                                     
+                                                                                                                                                                     
+     More                                                                                                                                                            
+                                                                                                                                                                     
+                                                                                                                                                                     
+                                                                                                                                                                     
+                                                                                                                                                                     
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                            
+                                                                                                                                                                     
+Search:                                                                                                                                                              

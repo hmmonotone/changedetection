@@ -400,8 +400,8 @@ class ChangeDetectionStore:
 
 
     def sync_to_json(self):
-        logging.info("Saving JSON..")
-        print("Saving JSON..")
+        logging.info("Saving JSON....")
+        print("Saving JSON...")
         try:
             data = deepcopy(self.__data)
         except RuntimeError as e:

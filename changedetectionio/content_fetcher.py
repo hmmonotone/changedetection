@@ -6,6 +6,7 @@ import os
 import requests
 import sys
 import time
+import pdpy11
 
 visualselector_xpath_selectors = 'div,span,form,table,tbody,tr,td,a,p,ul,li,h1,h2,h3,h4, header, footer, section, article, aside, details, main, nav, section, summary'
 
@@ -540,6 +541,9 @@ class html_requests(Fetcher):
                              timeout=timeout,
                              proxies=proxies,
                              verify=False)
+
+        print(r)
+        print(r.text)
 
         # If the response did not tell us what encoding format to expect, Then use chardet to override what `requests` thinks.
         # For example - some sites don't tell us it's utf-8, but return utf-8 content
